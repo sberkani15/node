@@ -1,0 +1,26 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "a simple api to manager",
+  "main": "app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sberkani15/node.git"
+  },
+  "author": "slimane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sberkani15/node/issues"
+  },
+  "homepage": "https://github.com/sberkani15/node#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.2.1",
+    "mongoose": "^5.0.16",
+    "morgan": "^1.9.0"
+  }
+}
